@@ -3,7 +3,8 @@ body {
 }
 
 .rainbow-letters {
-font-size: 40px;
+/* font-size: 40px; */
+font-size: 3.2vw; /* to make the h1 header mobile responsive for smaller screens */
 text-transform: uppercase;
 text-align: center;
 }
